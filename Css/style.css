@@ -11,8 +11,7 @@ h2{
 }
 
 h3{
-    font-size: 20px;
-    
+    font-size: 20px;    
     
 }
 
@@ -35,7 +34,10 @@ a{
     color: #fff;
     border-radius: 15px;
     border: 1px solid #49B970;
-    border-width: 9px;
+    border-width: 6px;
+    padding: 1px 20px;
+    font-weight: bold;
+    font-size: 14px;
 }
 
 img{
