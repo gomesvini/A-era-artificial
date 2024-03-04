@@ -1,0 +1,43 @@
+div{
+    text-align: center;
+    font-family: 'Tahoma';
+    border-top: 1px solid #d5d5d5;
+    margin-bottom: 40px;
+}
+
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 20px;
+    
+    
+}
+
+p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span{
+    font-weight: bold;
+    color: #333
+}
+
+a{
+    background-color: #49B970;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 15px;
+    border: 1px solid #49B970;
+    border-width: 9px;
+}
+
+img{
+    width: 190px;
+}
