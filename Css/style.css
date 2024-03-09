@@ -1,3 +1,4 @@
+
 div{
     text-align: center;
     font-family: 'Tahoma';
@@ -15,7 +16,30 @@ h3{
     
 }
 
-p{
+.redes{
+    width: 30px;
+    margin: 0 20px;
+}
+
+.rodape {
+    padding: 10px 20px;
+    height: 5px;
+}
+
+.copyright{
+    width: 14px;
+}
+
+.dev{
+    display: flex;
+    align-items: center;
+    width: max-content;
+    margin: 0 auto 5px auto;
+    border: none;
+    height: 20px;
+}
+
+.paragraph{
     text-align: center;
     line-height: 28px;
     width: 930px;
@@ -28,7 +52,7 @@ span{
     color: #333
 }
 
-a{
+.button{
     background-color: #49B970;
     text-decoration: none;
     color: #fff;
@@ -42,4 +66,8 @@ a{
 
 img{
     width: 190px;
+}
+
+.copyright{
+    margin-left: 10px;
 }
